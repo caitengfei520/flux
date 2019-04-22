@@ -19,7 +19,7 @@
     "utils.js",
     "dist"
   ],
-  "main": "index.js",
+  "main": "index.js"
   "scripts": {
     "build": "gulp build",
     "prepublish": "gulp publish",
